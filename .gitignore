@@ -1,0 +1,8 @@
+# created by virtualenv automatically
+bin
+lib
+pyenv.cfg
+pyvenv.cfg
+cspell.json
+__pycache__
+.vscode
