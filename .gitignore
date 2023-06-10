@@ -6,3 +6,4 @@ pyvenv.cfg
 cspell.json
 __pycache__
 .vscode
+venv
