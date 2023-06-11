@@ -30,3 +30,8 @@
     - scatter plot
     - histogram
     - customization of plots
+  - Dictionary
+  - Introduction to pandas
+  - Logic, control flow and filtering
+  - Loops
+  - Case Study: Hacker Statistics
