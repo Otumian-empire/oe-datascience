@@ -1,5 +1,7 @@
 import matplotlib.pyplot as plt
-from data import life_exp, gdp_cap
+
+from data.life_exp import life_exp
+from data.gdp_cap import gdp_cap
 
 # plt.plot(gdp_cap, life_exp)
 # when you're trying to assess if there's a correlation between
