@@ -1,10 +1,10 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-from data.col import col
-from data.gdp_cap import gdp_cap
 from data.life_exp import life_exp
 from data.pop import pop
+from data.col import col
+from data.gdp_cap import gdp_cap
 
 # Scatter plot
 plt.scatter(x=gdp_cap, y=life_exp, s=np.array(pop) * 2, c=col, alpha=0.8)
