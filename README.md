@@ -24,3 +24,9 @@
     - col stacking
     - random number generation and clipping
     - mean, median, std, correlation
+- Intermediate python
+  - Data visualization (matpltlib)
+    - line plot
+    - scatter plot
+    - histogram
+    - customization of plots
